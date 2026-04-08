@@ -57,7 +57,7 @@ docker compose version    # e.g. Docker Compose version v2.x
 1. Open a terminal and go to this repository folder:
 
 ```bash
-cd /workspaces/forvali
+cd /workspaces/mediaserversetup
 ```
 
 2. Create the required host directories:
